@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 
 matplotlib.style.use('ggplot')
 
-
 # machine learning
 from sklearn.linear_model import LogisticRegression
 from sklearn.neighbors import KNeighborsClassifier
